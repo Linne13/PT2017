@@ -19,7 +19,7 @@ namespace PrimeNumbers
         }
         static void Main(string[] args)
         {
-             int n = args.Length;
+            /* int n = args.Length;
              for (int i = 0; i < n; i++)
              {
                  string s = args[i];
@@ -28,7 +28,7 @@ namespace PrimeNumbers
                  {
                      Console.WriteLine("PRIME");
                  }
-             } 
+             } */
 
             int a = int.Parse(Console.ReadLine());
             if (isPrime(a) == true)
