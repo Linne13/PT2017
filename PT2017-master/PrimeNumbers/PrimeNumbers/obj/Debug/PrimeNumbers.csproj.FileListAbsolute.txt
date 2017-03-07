@@ -1,0 +1,5 @@
+C:\Users\a_khan\Documents\Visual Studio 2013\Projects\PT2017-master\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\a_khan\Documents\Visual Studio 2013\Projects\PT2017-master\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\a_khan\Documents\Visual Studio 2013\Projects\PT2017-master\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\a_khan\Documents\Visual Studio 2013\Projects\PT2017-master\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\a_khan\Documents\Visual Studio 2013\Projects\PT2017-master\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
