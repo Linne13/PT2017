@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SnakeS
+{
+    public class Point
+    {
+        public int x, y;
+        public Point() { }
+        public Point(int xx, int yy)
+        {
+            x = xx;
+            y = yy;
+        }
+
+        public override bool Equals(object obj)
+        {
+            Point o = obj as Point;
+            if (this.x == o.x && this.y == o.y) return true;
+            return false;
+        }
+    }
+}
