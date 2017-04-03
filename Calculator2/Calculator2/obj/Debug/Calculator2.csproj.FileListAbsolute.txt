@@ -1,0 +1,9 @@
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.csprojResolveAssemblyReference.cache
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.Cache
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+c:\users\skh\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
