@@ -1,0 +1,9 @@
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\bin\Debug\moovingasteroids.exe.config
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\bin\Debug\moovingasteroids.exe
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\bin\Debug\moovingasteroids.pdb
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.csprojResolveAssemblyReference.cache
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.Form1.resources
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.Properties.Resources.resources
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.csproj.GenerateResource.Cache
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.exe
+c:\users\skh\documents\visual studio 2015\Projects\moovingasteroids\moovingasteroids\obj\Debug\moovingasteroids.pdb
